@@ -1,5 +1,7 @@
 .ipynb_checkpoints/
 .claude/
+aqi_timeseries.ipynb
+plots/
 __pycache__/
 *.pyc
 .venv/
