@@ -126,7 +126,7 @@ Time_Series_AQI_Forecast/
 │   ├── 03_level_vs_diff.png
 │   ├── 04_stl_decomposition.png
 │   ├── 05_seasonal_views.png
-│   ├── 06_acf_level.png
+│   ├── 06_acf_pacf_level.png
 │   ├── 07_stl_remainder_acf_pacf.png
 │   ├── 08_residual_diagnostics.png
 │   ├── 09_validation_forecast.png
