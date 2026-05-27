@@ -1,0 +1,8 @@
+pandas>=2.2
+numpy>=2.1
+matplotlib>=3.10
+seaborn>=0.13
+statsmodels>=0.14
+scipy>=1.15
+jupyter>=1.0
+ipykernel>=6.0

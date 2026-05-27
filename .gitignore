@@ -1,0 +1,12 @@
+.ipynb_checkpoints/
+.claude/
+__pycache__/
+*.pyc
+.venv/
+.env/
+env/
+*.pkl
+*.pickle
+outputs/*.csv
+*.DS_Store
+CLAUDE.md
